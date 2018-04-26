@@ -1,0 +1,4 @@
+Authname "Espace administrateur"
+Authtype Basic
+AuthUserFile "*****"
+Require valid-user
